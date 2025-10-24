@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projeto 5</title>
+</head>
+<body>
+  Localização:  <select name="lista" id="lista"> 
+    <option value="Opção 1">SP </option>
+    <option value="Opção 2">RJ </option>
+    <option value="Opção 3">ES </option>
+    <option value="Opção 4">MG </option>
+    <option value="Opção 5">MS </option>
+    </select>
+ <br><br>
+    <form action="">
+
+       Nome: <input type="text" placeholder="Insira seu nome"> <br><br>
+       Senha: <input type="password" placeholder="Insira sua senha:"> <br><br>
+       Data e Hora:  <input type="datetime-local"> <br><br>
+       Cor: <input type="color"> <br><br>
+       Soft skills: <br><br>
+       Trabalho em Equipe: <input type="checkbox"> <br><br> 
+       Planejamento: <input type="checkbox"> <br><br>
+       Esforçado: <input type="checkbox"> <br><br>
+       Obcedado pela Vitória: <input type="checkbox"> <br><br>
+       Resolução de Problemas: <input type="checkbox">  <br><br>
+        <input type="radio"  name= "radio" id="radio1">Java
+        <input type="radio"  name= "radio" id="radio2">PHP
+        <input type="radio"  name= "radio" id="radio1">Java Script <br><br>
+        <button> <a href="https://www.netflix.com/br/login?nextpage=https%3A%2F%2Fwww.netflix.com%2Fbrowse&serverState=%7B%22realm%22%3A%22growth%22%2C%22name%22%3A%22IDENTIFICATION%22%2C%22clcsSessionId%22%3A%221f938e9b-e74e-4813-a5f6-03753765f2ef%22%2C%22sessionContext%22%3A%7B%22session-breadcrumbs%22%3A%7B%22funnel_name%22%3A%22loginWeb%22%7D%2C%22login.navigationSettings%22%3A%7B%22nextPage%22%3A%22https%3A%2F%2Fwww.netflix.com%2Fbrowse%22%7D%7D%7D">   Enviar</button>
+        <button>Cancelar</button>
+
+    </form> 
+
+
+   
+
+</body>
+</html>

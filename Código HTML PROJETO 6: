@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS 3</title>
+    <link rel="stylesheet" href="css/estilos.css">
+</head>
+<body>
+    
+    <h1>Trabalhando com CSS </h1>
+    <p>Desenvolvimento web</p>
+
+    <div class="div1"> Minha 1º div <img src="css/8877155.jpg" alt="" height="250"></div> 
+    <div class="div2"> Minha 2º div <img src="css/20665045.jpg" alt="" height="250"> </div> 
+    <div class="div3"> Minha 3º div <img src="css/wp11696545.png" alt="" height="250"></div>  
+
+</body>
+</html>
